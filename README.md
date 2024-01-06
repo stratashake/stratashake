@@ -32,7 +32,7 @@ If you're not familiar with coding or GitHub, here's a quick guide to help you n
 ### 🤝 **Let's Connect:**
 
 - 📧 Email: [Matthewdyer.pl@gmail.com](mailto:Matthewdyer.pl@gmail.com)
-- [LinkedIn Profile](www.linkedin.com/in/matthew-dyer-a95614b2)
+- LinkedIn Profile: www.linkedin.com/in/matthew-dyer-a95614b2
 - [GitHub](https://github.com/stratashake)
 
 
