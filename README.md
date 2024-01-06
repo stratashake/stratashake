@@ -1,4 +1,4 @@
-# Hello, I'm Matthew Dyer 👋
+# Howdy 👋
 
 ## Bioinformatics Enthusiast | Data Analysis Intermediate | Lifelong Learner
 
