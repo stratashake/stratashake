@@ -1,5 +1,3 @@
-# Howdy 👋
-
 ## Bioinformatics Enthusiast | Data Analysis Intermediate | Lifelong Learner
 
 Welcome to my GitHub page! I'm a newly graduated bioinformatician (MSc) with a wet lab background. I'm passionate about structural bioinformatics, RNA-seq analysis, data science, and genomics. My journey in bioinformatics is driven by a fascination with the complexities of genetic data and a commitment to contribute to meaningful scientific discoveries.
